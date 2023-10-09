@@ -1,9 +1,9 @@
 # Basic Information
-baseURL: "https://hiiruki.dev/"
+baseURL: "https://lemniskett.dev/"
 languageCode: en-us
-title: "Hiiruki's Lab"
+title: "Lemniskett's Stash"
 theme: Kamigo
-copyright: '&copy; 2023 [hiiruki.dev](https://hiiruki.dev) | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | [Privacy Policy](/privacy) | [Disclaimer](/disclaimer)'
+copyright: '&copy; 2023 [lemniskett.dev](https://lemniskett.dev) | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | [Privacy Policy](/privacy) | [Disclaimer](/disclaimer)'
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -21,7 +21,7 @@ minify:
 # Site parameters
 params:
   env: production
-  title: "Hiiruki's Lab"
+  title: "Lemniskett's Stash"
   description: "Thoughts and research on security, privacy, *nix based systems, and other IT stuff."
   keywords: [Blog, Research, Security, Privacy, Linux]
   DateFormat: "January 2, 2006"
@@ -29,7 +29,6 @@ params:
   disableThemeToggle: false
   mainSections:
     - blog
-    - writeups
 
   author: Hiiruki
   ShowReadingTime: true
@@ -58,42 +57,32 @@ params:
 
 # Home-info mode
   homeInfoParams:
-    title: "Hiiruki's Lab"
+    title: "Lemniskett's Stash"
     content: Thoughts and research on security, privacy, *nix based systems, and other IT stuff.
 
 # profile-mode
   profileMode:
       enabled: true # needs to be explicitly set
-      title: ひるき
-      subtitle: "_Astra inclinant, sed non obligant._"
+      title: Lemniskett
+      subtitle: "`./scripts/publish.sh ~/Personal\\ Notes/*`"
       imageUrl: "/images/profile.webp"
       imageWidth: 120
       imageHeight: 120
-      imageTitle: Hiiruki's Profile Picture
+      imageTitle: Lemniskett's Profile Picture
       buttons:
         - name: Blog
           url: blog
-        - name: Writeups
-          url: writeups
 
 # Social
   socialIcons:
-    - name: matrix
-      url: "https://matrix.to/#/@hiiruki:matrix.org"
-    - name: github
-      url: "https://github.com/hiiruki"
-    - name: mastodon
-      url: "https://infosec.exchange/@hiiruki"
-    - name: twitter
-      url: "https://x.com/0xHiiruki"
-    # - name: discord
-    #   url: "https://discordapp.com/users/529270835341426708"
-    # - name: telegram
-    #   url: "https://t.me/hiirvki"
-    # - name: xmpp => There is a bug in the URL, when using `xmpp:` as a protocol in the URL, it will be converted to http://xmpp:hiiruki@yourdataforsale which results in 404.
-    #   url: "xmpp:hiiruki@yourdata.forsale"
     - name: email
-      url: "mailto:hi@hiiruki.dev"
+      url: "mailto:syahrial@lemniskett.dev"
+    - name: github
+      url: "https://github.com/lemniskett"
+    - name: pleroma
+      url: "https://lemniskett.space/users/lemniskett"
+    - name: telegram
+      url: "https://t.me/lemniskett"
     - name: pgp
       url: "/pgp.txt"
     - name: rss
@@ -143,9 +132,6 @@ menu:
     - name: About
       url: /about/
       weight: 4
-    - name: Alt
-      url: https://hiiruki.com/
-      weight: 5
 
 # Taxonomies
 taxonomies:
