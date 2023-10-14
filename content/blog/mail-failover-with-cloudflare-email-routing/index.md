@@ -25,11 +25,11 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    image: images/cloudflare_email_routing.webp
+    alt: "CloudFlare Email Routing"
+    caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 ---
 
 ## Introduction
