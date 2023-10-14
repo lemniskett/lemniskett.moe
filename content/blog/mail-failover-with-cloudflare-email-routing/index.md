@@ -25,7 +25,7 @@ UseHugoToc: true
 cover:
     image: images/cloudflare_email_routing.png
     alt: "CloudFlare Email Routing"
-    relative: false
+    relative: true
     hidden: false
 ---
 
