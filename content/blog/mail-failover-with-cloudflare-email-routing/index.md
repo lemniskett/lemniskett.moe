@@ -114,7 +114,7 @@ Here I'm using ProtonMail as sender and Gmail as fallback recipient. Let's confi
 ![Sender Before Fallback](./images/09-sender-before-fallback.png)
 ![Recipient Before Fallback](./images/10-recipient-before-fallback.png)
 
-It works as expected, now let's shut down the server that is hosting the mail server
+It works as expected, now let's shut down the server that is hosting the mail server:
 
 ![Biznet Giocloud Console](./images/11-biznet-giocloud-console.png)
 
