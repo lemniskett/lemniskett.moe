@@ -4,14 +4,12 @@ description: "For the peace of mind of mail self-hosters."
 summary: "For the peace of mind of mail self-hosters."
 date: 2023-10-10T11:58:53+07:00
 draft: false
-author: "Lemniskett" # ["Me", "You"] # multiple authors
+author: "Lemniskett"
 tags: ["cloudflare", "email", "self-host"]
 canonicalURL: ""
 showToc: true
 TocOpen: false
 TocSide: 'right'  # or 'left'
-# weight: 1
-# aliases: ["/first"]
 hidemeta: false
 comments: false
 disableHLJS: true # to disable highlightjs
@@ -25,11 +23,10 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: images/cloudflare_email_routing.webp
+    image: images/cloudflare_email_routing.png
     alt: "CloudFlare Email Routing"
-    caption: "" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: false # only hide on current single page
+    relative: false
+    hidden: false
 ---
 
 ## Introduction
