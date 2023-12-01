@@ -1,4 +1,4 @@
-# lemniskett.dev
+# lemniskett.moe
 
 _yet another personal website._
 

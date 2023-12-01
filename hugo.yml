@@ -1,9 +1,9 @@
 # Basic Information
-baseURL: "https://lemniskett.dev/"
+baseURL: "https://lemniskett.moe/"
 languageCode: en-us
 title: "Lemniskett's Stash"
 theme: Kamigo
-copyright: '&copy; 2023 [lemniskett.dev](https://lemniskett.dev) | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | [Privacy Policy](/privacy) | [Disclaimer](/disclaimer)'
+copyright: '&copy; 2023 [lemniskett.moe](https://lemniskett.moe) | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | [Privacy Policy](/privacy) | [Disclaimer](/disclaimer)'
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -76,7 +76,7 @@ params:
 # Social
   socialIcons:
     - name: email
-      url: "mailto:syahrial@lemniskett.dev"
+      url: "mailto:syahrial@lemniskett.moe"
     - name: github
       url: "https://github.com/lemniskett"
     - name: pleroma

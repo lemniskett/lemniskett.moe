@@ -18,9 +18,9 @@ Here you can find stuffs that I learned that made my life easier. Feel free to c
 
 [Pleroma](https://lemniskett.space/users/lemniskett)
 
-[E-mail](mailto:syahrial@lemniskett.dev)
+[E-mail](mailto:syahrial@lemniskett.moe)
 
->All my emails are digitally signed with PGP key: [4325F99CF01AB846](/pgp.txt). Do not trust emails from me that lack a valid digital signature.
+>All my emails are digitally signed with PGP key: [24260130A908EB5A](/pgp.txt). Do not trust emails from me that lack a valid digital signature.
 
 <details>
 <summary>Importing my public key</summary>
