@@ -81,8 +81,6 @@ params:
       url: "https://github.com/lemniskett"
     - name: linkedin
       url: "https://www.linkedin.com/in/lemniskett/"
-    - name: pleroma
-      url: "https://lemniskett.space/users/syahrial"
     - name: telegram
       url: "https://t.me/lemniskett"
     - name: pgp
