@@ -79,6 +79,8 @@ params:
       url: "mailto:syahrial@lemniskett.moe"
     - name: github
       url: "https://github.com/lemniskett"
+    - name: gitea
+      url: "https://momodev.lemniskett.moe/lemniskett"
     - name: linkedin
       url: "https://www.linkedin.com/in/lemniskett/"
     - name: telegram
